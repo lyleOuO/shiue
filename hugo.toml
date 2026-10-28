@@ -1,8 +1,8 @@
-baseURL = 'https://xeu.life/'
+baseURL = 'https://0u0.pp.ua/'
 locale = 'zh-CN'
-theme = 'xeu'
-title = "Xeu's world"
+theme = 'lyle'
+title = "lyle's world"
 [params]
-description = "Xeu's mini world"
+description = "Lyle's mini world"
 [params.author]
-name = "Xeu"
+name = "lyle"
